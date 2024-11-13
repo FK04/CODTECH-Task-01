@@ -1,10 +1,10 @@
 # CODTECH-Task-01
-**Name** : SYED ABDUL QADER FAIZAN KHUNDMIRY
-**Company** : CODTECH IT SOLUTIONS
-**ID** : CT6WDS1928
-**Domain** : Python Programming
-**Duration** : September to November 2024
-**Mentor** : Neela Santhosh Kumar
+**Name:** SYED ABDUL QADER FAIZAN KHUNDMIRY
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT6WDS1928
+**Domain:** Python Programming
+**Duration:** September to November 2024
+**Mentor:** Neela Santhosh Kumar
 
 ## Overview Of The Project
 
