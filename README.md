@@ -14,24 +14,21 @@
 The Library Management System is a user-friendly desktop application built with Python and MySQL. It provides an intuitive GUI for managing library operations, such as adding, updating, searching, and viewing book records. This project is ideal for small to medium-sized libraries aiming to streamline their inventory and borrowing processes.
 
 ### Features
--**Add Books**: Easily add new book entries with title, author, category, and availability status.
--**Search Books**: Search for books based on title, author, or category.
--**Update Records**: Update book details, such as title, author, or category.
--**View All Records**: Display a complete list of all books in the library's inventory.
--**Checkout and Return**: Manage the borrowing and returning of books.
+- **Add Books**: Easily add new book entries with title, author, category, and availability status.
+- **Search Books**: Search for books based on title, author, or category.
+- **Update Records**: Update book details, such as title, author, or category.
+- **View All Records**: Display a complete list of all books in the library's inventory.
+- **Checkout and Return**: Manage the borrowing and returning of books.
 
 ### Technologies Used
--Programming Language: Python (Tkinter for GUI development)
--Database: MySQL (for storing book records and transaction details)
--Libraries:
--tkinter: For creating the GUI.
--mysql.connector: For database connectivity.
+- Programming Language: Python (Tkinter for GUI development)
+- Database: MySQL (for storing book records and transaction details)
+- Libraries:
+- tkinter: For creating the GUI.
+- mysql.connector: For database connectivity.
 
 ### Setup Instructions
 Clone the repository:
-
-bash
-
 git clone <repository_url>
 cd library-management-system
 
